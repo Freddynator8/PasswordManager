@@ -10,4 +10,9 @@
         android:name="com.example.passwordmanager.overview.Overview"
         android:label="fragment_overview"
         tools:layout="@layout/fragment_overview" />
+    <fragment
+        android:id="@+id/add2"
+        android:name="com.example.passwordmanager.add.Add"
+        android:label="fragment_add"
+        tools:layout="@layout/fragment_add" />
 </navigation>
