@@ -12,4 +12,5 @@ data class PasswordDBDefinition(
     val title: String,
     val username: String,
     val email: String,
-    val password: String): Parcelable
+    val password: String,
+    val website: String): Parcelable
